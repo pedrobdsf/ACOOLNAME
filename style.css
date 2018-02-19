@@ -1,0 +1,22 @@
+html {
+    overflow-y: scroll;
+}
+
+body {
+    padding-top: 110px;
+    font-family: "Open Sans", sans-serif;
+    background-color: #ffffff;
+    min-height: 100vh;
+    padding-bottom: 210px;
+    position: relative;
+}
+
+
+.error {
+	background-color: #0000ff;
+	color:#ff0000
+}
+
+.box-outter {
+	padding:20px;
+}
